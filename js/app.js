@@ -143,7 +143,7 @@ clkTest.addEventListener('click', () => {
 const back = [
     "url('img/back/pic-1.webp')",
     "url('img/back/pic-2.jpg')",
-    "url('img/back/pic-3.jpg')",
+    // "url('img/back/pic-3.jpg')",
     "url('img/back/pic-4.jpg')",
     "url('img/back/pic-5.jpg')",
     "url('img/back/pic-6.jpg')",
