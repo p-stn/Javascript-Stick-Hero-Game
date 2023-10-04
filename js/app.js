@@ -75,7 +75,7 @@ const ClickUp = (() => {
             _valueClickMouse = 0
             setTimeout(() => {
                 ball.style.transition = "0.5s"
-                ball.style.left = `${py3 + 20}px`
+                ball.style.left = `${py3 + 15}px`
             }, 500);
             setTimeout(() => {
 
@@ -128,7 +128,7 @@ clkTest.addEventListener('click', () => {
         e.remove()
     })
     ball.style.transition = "0s"
-    ball.style.left = `${20}px`
+    ball.style.left = `${15}px`
 
     myn.style.right = `${0}px`
     _getTagWalls.length = 0
